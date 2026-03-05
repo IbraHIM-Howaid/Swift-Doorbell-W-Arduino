@@ -25,7 +25,7 @@ Our goal is to build a rugged, high-volume doorbell system tailored for a shop e
 
 - Input: [1x LED Button](https://www.amazon.ca/Nilight-Stainless-Latching-Switches-Waterproof/dp/B0BMVR2RRM/ref=sr_1_8?crid=3DV3F8GTZKL0R&dib=eyJ2IjoiMSJ9.97goyb5WPq66coA7I0-qGGkc5qGwcRxVoJKl1xU28IjYykzkQNahYAXcRwZTmlVES3VoNbFmwZmDoBAbxSqtlbhDXuIbAw5QVDgR0aZ2Ie-xfd5OuiJyO2GmL9eO22_1iPOTQBalzfOo5TQJE91X7btb4CFVfOXBCWGJGw59nURIjXEbiTSKT4x1ewGS9_vGJyfRQH1krc2IU4mF_woiDGFFvpyxNaxMBdQQ5fBcr4tzAzwjXNwKerOarS1jqylmm4Xa4xb8qPsjQ-4Q7q6oaNh7gxDILPuPfzBIUymTj_4.mRPwragvJzCY2GkOvKQD-k9MTDU-2wn6HpS9VTMSgkU&dib_tag=se&keywords=Gravity%3A+LED+Button&qid=1771351114&sprefix=micro+bit+large+button%2Caps%2C502&sr=8-8)
 
-- Output: [1x Speaker]([url](https://gikfun.com/products/gikfun-round-micro-speaker-diameter-28mm-8ohm-8r-2w-for-arduino-pack-of-2pcs))
+- Output: [1x Speaker](https://gikfun.com/products/gikfun-round-micro-speaker-diameter-28mm-8ohm-8r-2w-for-arduino-pack-of-2pcs)
 
 - Housing: 2x Custom 3D-printed cases (Designed by Aidan)
 
