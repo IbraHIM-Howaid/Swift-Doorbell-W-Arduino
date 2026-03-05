@@ -17,3 +17,16 @@ Our goal is to build a rugged, high-volume doorbell system tailored for a shop e
 
 # Components:
 
+ (Design cycle 1)
+🛠️ Hardware Stack
+Microcontrollers: 2x Micro:Bit
+
+Power: 2x Battery cases
+
+Input: 1x LED Button
+
+Output: 1x Speaker
+
+Housing: 2x Custom 3D-printed cases (Designed by Aidan)
+
+![IMG_4123 (1)](https://github.com/user-attachments/assets/0077188b-1b6c-4fb7-9bf6-87c2bc424323)
